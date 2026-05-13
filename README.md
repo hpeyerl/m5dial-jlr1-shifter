@@ -41,7 +41,7 @@ Set GearLvr to 2 (JLR-G1) and set VehicleCan to whichever CAN the M5 is connecte
 
 | Field       | Value |
 |-------------|-------|
-| CAN ID      | `0x3F3` |
+| CAN ID      | `0x312` |
 | DLC         | 8 bytes |
 | Rate        | Every 20 ms |
 | Gear in     | Byte encoding per JLR G1 spec |
